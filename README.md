@@ -13,8 +13,8 @@ Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 | :---: | :---: | :---: |
 | <img src="Images/MyArt/PixelArtExample1.png" width="128" height="128" /> | <img src="Images/MyArt/BlenderExample1.gif" width="128" height="128" /> | <img src="Images/MyArt/AnimationExample1.gif" width="185" height="128" /> |
 | PFP thing I did for myself. | Blender Pixel art | Pixel ver of NotSoAdvanced's YCR Sonic.exe |
-| <img src="Images/MyArt/PixelArtExample2.png" width="128" height="128" /> | |
-| PFP thing I did.. but for !JDrive! |  |  |
+| <img src="Images/MyArt/PixelArtExample2.png" width="128" height="128" /> | | <img src="Images/MyArt/AnimationExample2.gif" width="146" height="128" /> |
+| PFP thing I did.. but for !JDrive! |  | Thing i did based off of the funny sonic dance gif |
 | <img src="Images/MyArt/PixelArtExample3.png" width="128" height="128" /> |  |  |
 | RivalsOA Spritework |  |  |
 | <img src="Images/MyArt/PixelArtExample4.png" width="414" height="100" /> |  |
