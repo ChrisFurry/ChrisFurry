@@ -17,7 +17,7 @@ Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 | PFP thing I did.. but for !JDrive! |  |  |
 | <img src="Images/MyArt/PixelArtExample3.png" width="128" height="128" /> |  |  |
 | RivalsOA Spritework |  |  |
-| <img src="Images/MyArt/PixelArtExample4.png" width="530" height="128" /> |  |
+| <img src="Images/MyArt/PixelArtExample4.png" width="414" height="100" /> |  |
 | Sonic Spritestyle Practice |  |
 ## What I'm working on / What I have worked on
 | Current Status | Project |
