@@ -23,6 +23,12 @@ Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 * Gamemaker Studio 2
   * Wanna learn to do 3D stuff sometime
 * Blender (Only a little)
+# Art Examples
+<img src="Images/MyArt/BlenderExample1.gif" width="200" height="200" /> Blender Example (I like to mess around and render simple things, also technically pixel art example)
+
+<img src="Images/MyArt/PixelArtExample1.png" width="200" height="200" /> Pfp thing I did.
+
+<img src="Images/MyArt/PixelArtExample2.png" width="200" height="200" /> Pfp thing I did, but for !JDrive
 # What I'm working on / What I have worked on
 * Techno-Break: My totally not Sonic-clone game!!! (Feat. A dumb green cat)
 * Needlemouse Framework: My Sonic Framework (Released)
