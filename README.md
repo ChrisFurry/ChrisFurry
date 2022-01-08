@@ -22,6 +22,7 @@ Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 * Visual Studio Code
 * Gamemaker Studio 2
   * Wanna learn to do 3D stuff sometime
+* Blender (Only a little)
 # What I'm working on / What I have worked on
 * Techno-Break: My totally not Sonic-clone game!!! (Feat. A dumb green cat)
 * Needlemouse Framework: My Sonic Framework (Released)
