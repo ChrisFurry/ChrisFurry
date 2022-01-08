@@ -2,7 +2,7 @@
 Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 ## Stuff I do
 | Stuff I do | What I can program in | Programs I use |
-| --- | --- | --- |
+| :--- | :---: | ---: |
 | Draw | Clickteam Fusion 2.5 | Aseprite |
 | Pixel Art | Gamemaker Language | Animate CC |
 | Animation | Haxe (little) | Visual Studio Code |
