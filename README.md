@@ -12,7 +12,6 @@ Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 * I wanna get into more stuff so expect that
 # What I'm working on / What I have worked on
 * Techno-Break: My totally not Sonic-clone game!!! (Feat. A dumb green cat)
-* Virus-Detectors (By !JDrive)
 * Needlemouse Framework: My Sonic Framework (Released)
 # My likes/interests
 * The Sega Megadrive/Genesis
