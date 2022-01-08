@@ -9,12 +9,16 @@ Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 | Code | Lua ~~Except I hate lua~~ | Gamemaker Studio 2 (prefer 1.4) |
 | Slight 3D modeling | Maybe more in the future | Blender (little) |
 ## Art Examples
-| Pixel Art | Blender |
-| :---: | :---: |
-| <img src="Images/MyArt/PixelArtExample1.png" width="128" height="128" /> | <img src="Images/MyArt/BlenderExample1.gif" width="128" height="128" /> |
-| PFP thing I did for myself. | Blender Pixel art |
+| Pixel Art | Blender | Animation |
+| :---: | :---: | :---: |
+| <img src="Images/MyArt/PixelArtExample1.png" width="128" height="128" /> | <img src="Images/MyArt/BlenderExample1.gif" width="128" height="128" /> | <img src="Images/MyArt/AnimationExample1.gif" width="185" height="128" /> |
+| PFP thing I did for myself. | Blender Pixel art | Pixel ver of NotSoAdvanced's YCR Sonic.exe |
 | <img src="Images/MyArt/PixelArtExample2.png" width="128" height="128" /> | |
-| PFP thing I did.. but for !JDrive! |  |
+| PFP thing I did.. but for !JDrive! |  |  |
+| <img src="Images/MyArt/PixelArtExample3.png" width="128" height="128" /> |  |  |
+| RivalsOA Spritework |  |  |
+| <img src="Images/MyArt/PixelArtExample4.png" width="530" height="128" /> |  |
+| Sonic Spritestyle Practice |  |
 ## What I'm working on / What I have worked on
 | Current Status | Project |
 | :--- | ---: |
