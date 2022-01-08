@@ -26,6 +26,10 @@ Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 | Seeing Other's Code | The Sega Megadrive/Genesis |
 | Other People's Art | Sonic Physics |
 | Sonic Fangames (That try to be different) | Source Engine |
-## You can talk to me if you want ig
-* Discord: ChrisFurry#0275
-* Twitter: @ChrisFurry2005
+## Places I'm on (if you wanna talk to me or check out my stuff)
+[Discord](ChrisFurry#0275) | 
+[Guilded](https://www.guilded.gg/u/ChrisFurry2005) | 
+[Twitter](https://twitter.com/ChrisFurry2005) | 
+[Newgrounds](https://chrisfurry.newgrounds.com/) | 
+[Itch.io (Needs updating)](https://chrisfurry.itch.io/) | 
+[Youtube (Not active)](https://www.youtube.com/channel/UCwN4qToe_0f_99PdNhbaz5g)
