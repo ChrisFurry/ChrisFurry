@@ -1,5 +1,7 @@
-# About the Furry (This README.md is a wip, im still learning how to use github)
+# The dumbass himself
+<img src="Images/Logos/ChrisFurry.png">
 Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
+
 ## Stuff I do
 | Stuff I do | What I can program in | Programs I use |
 | :--- | :---: | ---: |
