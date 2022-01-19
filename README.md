@@ -33,7 +33,7 @@ Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 | Other People's Art | Sonic Physics |
 | Sonic Fangames (That try to be different) | Source Engine |
 ## Places I'm on (if you wanna talk to me or check out my stuff)
-[Discord](ChrisFurry#0275) | 
+[Discord](ChrisFurry#2005) | 
 [Guilded](https://www.guilded.gg/u/ChrisFurry2005) | 
 [Twitter](https://twitter.com/ChrisFurry2005) | 
 [Newgrounds](https://chrisfurry.newgrounds.com/) | 
