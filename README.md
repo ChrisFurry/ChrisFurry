@@ -8,7 +8,7 @@ Yo I'm ChrisFurry, I'm 16 and I somehow know how to do shit
 | Draw | Clickteam Fusion 2.5 | Aseprite |
 | Pixel Art | Gamemaker Language | Animate CC |
 | Animation | Haxe (little) | Visual Studio Code |
-| Code | Lua ~~Except I hate lua~~ | Gamemaker Studio 2 (prefer 1.4) |
+| Code | Lua ~~Except I **LOVE** lua~~ | Gamemaker Studio 2 (prefer 1.4) |
 | Slight 3D modeling | Maybe more in the future | Blender (little) |
 ## Art Examples
 | Pixel Art | Blender | Animation |
